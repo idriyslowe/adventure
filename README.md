@@ -1,0 +1,1 @@
+This is my first attempt at writing a simple adventure game in the Ruby language.  Everything I know about Ruby now is included in this game, designed to run in terminal since that's the only way I know to run it right now.
